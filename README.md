@@ -1,24 +1,10 @@
-# README
+# REST API Server
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* API authentication system by Ruby On Rails
+* Login Facebook via API
+* Get Facebook User Data via Token
+* Customizing JSON response
+* Improve Rails performance
+* Upload Image to Server via API
