@@ -25,6 +25,7 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'simple_token_authentication', '~> 1.17'
 gem 'koala', '~> 3.0'
 gem 'active_model_serializers', '~> 0.10.10'
+gem 'counter_culture', '~> 2.3'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
  gem 'rack-cors'
@@ -40,6 +41,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'faker', '~> 2.11'
+  gem 'rubocop-faker', '~> 1.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
