@@ -42,6 +42,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'faker', '~> 2.11'
   gem 'rubocop-faker', '~> 1.0'
+  gem 'bullet', '~> 6.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
